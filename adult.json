@@ -324,9 +324,8 @@
     "name": "🔞鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "danaizi",
@@ -334,7 +333,7 @@
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "搜索无结果"
   },
   {
@@ -343,7 +342,7 @@
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "搜索无结果"
   },
   {
@@ -352,7 +351,7 @@
     "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "搜索无结果"
   },
   {
